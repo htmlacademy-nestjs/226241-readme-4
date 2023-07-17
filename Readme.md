@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
-* Студент: [Дмитрий Беллавин](https://up.htmlacademy.ru/nodejs-2/4/user/226241).
-* Наставник: `Неизвестно`.
+- Студент: [Дмитрий Беллавин](https://up.htmlacademy.ru/nodejs-2/4/user/226241).
+- Наставник: [Константин Ильин](https://up.htmlacademy.ru/nodejs-2/4/user/2374827).
 
 ---
 
