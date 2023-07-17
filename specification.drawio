@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2023-07-17T17:11:01.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="21.6.2" etag="KaEP5ZmJ4o8bfXrS0j7v" type="device">
+  <diagram id="pcakL0eu_Tl8XelJqLfZ" name="Страница 1">
+    <mxGraphModel dx="1379" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vlNdukfmZPvlRhambFfM-1" value="Публикация" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlNdukfmZPvlRhambFfM-2" value="Пользователь" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlNdukfmZPvlRhambFfM-3" value="Рассылка почтовых уведомлений" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
