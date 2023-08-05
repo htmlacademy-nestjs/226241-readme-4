@@ -20,7 +20,7 @@ export class CreateUserDto {
   public password: string;
 
   @ApiProperty({
-    description: 'User birth date',
+    description: 'User created date',
     example: '1981-03-12',
   })
   public createAt: string;
